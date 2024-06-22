@@ -3,6 +3,8 @@
 
 自然言語処理技術者です。
 
+「ことば工房」という屋号で個人事業主もやってます。
+
 # 経歴
 ## 職歴
 株式会社みらい翻訳
@@ -50,17 +52,23 @@ scouty株式会社
 サンパウロ大学（交換留学）
 - 2014/02~2015/09
 
-
-# Publications
-## Refereed International Conference
+# 学術活動
+## Publications
+### Refereed International Conference
 - Tomoki Matsuno, Katsuhiko Hayashi, Takahiro Ishihara, Hitoshi Manabe, Yuji Matsumoto, "Reduction of Parameter Redundancy in Biaffine Classifiers with Symmetric and Circulant Weight Matrices", The 32nd Pacific Asia Conference on Language, Information and Computation ( PACLIC 32)
 
-## Non-Refereed Conference
+### Non-Refereed Conference
 - [1]松野智紀, 能地宏, 松本裕治. ニューラルグラフ型係り受け解析器のため の文節ベクトル表現. 言語処理 学会第24回年次大会発表論文集, pp.600-603, March 2018
 - [2] 松野智紀, 林克彦 (阪大), 石原敬大, 真鍋陽俊 (ワークスアプリケーション ズ), 松本裕治. 重み行列の対称 性および巡回性の仮定に基づく双アフィン分類器の冗長性削減. 情報処理学会第236回自然言語処理研究会 研究報告自然言 語処理(NL),2018-NL-236(8).
 - [3]松野智紀, 松本裕治. 単語-文節間の変換による日本語係り受け解析. 言語処理学会第25回年次大会, March 2019
 - [4]松野智紀 (LAPRAS), 林克彦 (東大). Unicode符号位置に基づいたマルチバイト埋め込みによる形態素解 析.言語処理学会第25回年次大会, March 2020
 
+## 学会運営
+- YANSシンポジウム2023運営委員
+  - ハッカソンの企画、運営に関わった
+  - 特に生成AIを用いた広告文生成ハッカソンにおいて企画から当日の運営まで大きな役割を担った
+  - 開催報告
+    - https://yans.anlp.jp/entry/yans2023report#0%E6%97%A5%E7%9B%AE2023829
 
 # 技術スタック
 ## プログラミング言語

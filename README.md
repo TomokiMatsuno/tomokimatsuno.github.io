@@ -83,7 +83,7 @@ scouty株式会社
 - 英語
   - TOEIC：985点
 - ポルトガル語
-  - Celpe-bras：中上級（CEFR B2相当）
+  - Celpe-Bras：中上級（CEFR B2相当）
 - スペイン語
   - DELE B2
 

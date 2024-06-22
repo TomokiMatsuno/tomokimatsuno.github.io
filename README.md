@@ -58,10 +58,10 @@ scouty株式会社
 - Tomoki Matsuno, Katsuhiko Hayashi, Takahiro Ishihara, Hitoshi Manabe, Yuji Matsumoto, "Reduction of Parameter Redundancy in Biaffine Classifiers with Symmetric and Circulant Weight Matrices", The 32nd Pacific Asia Conference on Language, Information and Computation ( PACLIC 32)
 
 ### Non-Refereed Conference
-- [1]松野智紀, 能地宏, 松本裕治. ニューラルグラフ型係り受け解析器のため の文節ベクトル表現. 言語処理 学会第24回年次大会発表論文集, pp.600-603, March 2018
-- [2] 松野智紀, 林克彦 (阪大), 石原敬大, 真鍋陽俊 (ワークスアプリケーション ズ), 松本裕治. 重み行列の対称 性および巡回性の仮定に基づく双アフィン分類器の冗長性削減. 情報処理学会第236回自然言語処理研究会 研究報告自然言 語処理(NL),2018-NL-236(8).
+- [1]松野智紀, 能地宏, 松本裕治. ニューラルグラフ型係り受け解析器のための文節ベクトル表現. 言語処理学会第24回年次大会発表論文集, pp.600-603, March 2018
+- [2] 松野智紀, 林克彦 (阪大), 石原敬大, 真鍋陽俊 (ワークスアプリケーションズ), 松本裕治. 重み行列の対称性および巡回性の仮定に基づく双アフィン分類器の冗長性削減. 情報処理学会第236回自然言語処理研究会 研究報告自然言語処理(NL),2018-NL-236(8).
 - [3]松野智紀, 松本裕治. 単語-文節間の変換による日本語係り受け解析. 言語処理学会第25回年次大会, March 2019
-- [4]松野智紀 (LAPRAS), 林克彦 (東大). Unicode符号位置に基づいたマルチバイト埋め込みによる形態素解 析.言語処理学会第25回年次大会, March 2020
+- [4]松野智紀 (LAPRAS), 林克彦 (東大). Unicode符号位置に基づいたマルチバイト埋め込みによる形態素解析.　言語処理学会第25回年次大会, March 2020
 
 ## 学会運営
 - YANSシンポジウム2023運営委員

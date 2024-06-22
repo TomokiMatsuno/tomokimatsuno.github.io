@@ -25,7 +25,7 @@ scouty株式会社
 - 職務内容：
   - ダイレクトリクルーティングサービスにおける候補者転職意欲通知アルゴリズムの構築
   - ツイート検知による手法の成果がメディアに取り上げられました。
-    - https://weekly-economist.mainichi.jp/articles/20181016/se1/00m/020/071000c
+    - [記事URL](https://weekly-economist.mainichi.jp/articles/20181016/se1/00m/020/071000c)
 
 ## 個人事業の業績
 株式会社レアジョブテクノロジーズ
@@ -68,7 +68,7 @@ scouty株式会社
   - ハッカソンの企画、運営に関わった
   - 特に生成AIを用いた広告文生成ハッカソンにおいて企画から当日の運営まで大きな役割を担った
   - 開催報告
-    - https://yans.anlp.jp/entry/yans2023report#0%E6%97%A5%E7%9B%AE2023829
+    - [記事URL](https://yans.anlp.jp/entry/yans2023report#0%E6%97%A5%E7%9B%AE2023829)
 
 # 技術スタック
 ## プログラミング言語

@@ -1,11 +1,20 @@
 (See below for the English version.)
 # 概略
-自然言語処理の研究で修士号を取得後、現在まで自然言語処理技術者として約５年間のキャリアを積んでいます。株式会社みらい翻訳では機械翻訳に特化した言語モデルの訓練・評価を行い、個人事業主としても多様なプロジェクトに技術提供しています。言語自体にも興味を持っており、英語（TOEIC 985点）、ポルトガル語（CEFR B2相当）、スペイン語（同程度の能力）も習得、学部時代には言語学の副専攻を修了しました。
+自然言語処理の研究で修士号を取得後、現在まで自然言語処理技術者としてキャリアを積んでいます。SB Intuitions にて大規模言語モデルのアライメントに携わっています。言語自体にも興味を持っており、英語（TOEIC 985点）、ポルトガル語（CEFR B2相当）、スペイン語（同程度の能力）も習得、学部時代には言語学の副専攻を修了しました。
 
 # 経歴
 ## 職歴
+
+## 職歴
+SB Intuitions 株式会社
+- 2024/12~現在
+- ポジション：リサーチエンジニア
+- 職務内容：
+  - 大規模言語モデルの事後学習および評価
+
+
 株式会社みらい翻訳
-- 2020/09~現在
+- 2020/09~2024/11
 - ポジション：リサーチエンジニア
 - 職務内容：
   - 機械翻訳に特化した言語モデルの訓練、評価
@@ -87,12 +96,20 @@ scouty株式会社
 
 
 ### Summary
-After obtaining a master's degree in natural language processing research, I have built a career spanning approximately five years as a natural language processing engineer. Currently, I am working at Mirai Translate Co., Ltd., where I am involved in the training and evaluation of language models specialized in machine translation. Additionally, as a freelancer, I provide technical support for a variety of projects. I have a keen interest in languages, having mastered English (TOEIC score of 985), Portuguese (equivalent to CEFR B2), and Spanish (similar proficiency), and I completed a minor in linguistics during my undergraduate studies.
+After obtaining a master's degree in natural language processing research, I have been building my career as a natural language processing engineer. At SB Intuitions, I am involved in the alignment of large-scale language models. I also have a strong interest in languages themselves and have acquired proficiency in English (TOEIC 985), Portuguese (CEFR B2 equivalent), and Spanish (CEFR B2). During my undergraduate studies, I completed a minor in linguistics.
 
 ### Career
 #### Employment History
+
+**SB Intuitions Inc.**
+
+- **2024/12 - Present**
+- **Position**: Research Engineer
+- **Responsibilities**:
+  - Post-training and evaluation of large-scale language models
+
 **Mirai Translate, Inc.**
-- **2020/09 - Present**
+- **2020/09 - 2024/11**
 - **Position**: Research Engineer
 - **Responsibilities**:
   - Training and evaluating language models specialized in machine translation
